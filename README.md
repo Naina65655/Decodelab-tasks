@@ -9,7 +9,7 @@ This is a simple interactive web page bulit using HTML,CSS and javaScript.The pa
 .text color changes on every click
 .clean and simple user interface
 
-##Technologies Used
+## Technologies Used
 .HTML
 .CSS
 .javaScript
